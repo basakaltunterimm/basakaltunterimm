@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif">
 
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,Java**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript**
 
 - 📫 How to reach me **altunterimbasak5@gmail.com**
 
